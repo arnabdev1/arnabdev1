@@ -1,4 +1,3 @@
-# Hi there 👋, I'm Aurelisa!
 <h3 align="center">Hello! I'm Arnab Dev, an undergraduate student majoring in Computer Science at the University of Texas at Dallas. 🚀</h3>
 
 # ✨About Me:
