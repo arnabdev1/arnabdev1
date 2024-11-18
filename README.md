@@ -24,5 +24,4 @@
 
 # 📊 GitHub Stats:
 ![arnabdev1's Stats](https://github-readme-stats.vercel.app/api?username=arnabdev1&theme=merko&show_icons=true&hide_border=false&count_private=true)<br/>
-![arnabdev1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnabdev1&theme=merko&hide_border=false)<br/>
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdev1&theme=merko&show_icons=true&hide_border=false&layout=compact)
